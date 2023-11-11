@@ -30,7 +30,7 @@
         <artifactId>tomcat7-maven-plugin</artifactId>
         <version>2.2</version>
         <configuration>
-          <path>/</path>
+          <path>/DemoServlet</path>
           <contextFile>src/main/webapp/WEB-INF/web.xml</contextFile>
           <mode>context</mode>
           <charset>UTF-8</charset>
